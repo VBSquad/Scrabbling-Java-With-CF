@@ -5,7 +5,7 @@ It also shifts the elements after the removed element by 1 position to the left 
 
 import java.util.*;
 
-public class Solution {
+public class ListRemoveElementFromIndexFunct {
 	
     //main code
     public static void main ( String[ ] args )
