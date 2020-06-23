@@ -1,3 +1,9 @@
+/*
+The java string isEmpty()/ boolean isEmpty() method checks if this string is empty or not. 
+It returns true, if length of string is 0 otherwise false. In other words, true is returned 
+if string is empty otherwise it returns false.
+*/
+
 import java.util.*; 
 
 public class isEmptyFunc { 
