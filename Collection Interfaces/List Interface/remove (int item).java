@@ -5,12 +5,12 @@ It also shifts the elements after the removed element by 1 position to the left 
 
 import java.util.*;
 
-public class ListRemoveElementFromIndexFunct {
+class ListRemoveElementFromIndexFunct {
 	
     //main code
     public static void main ( String[ ] args )
     {
-	Scanner sc=new Scanner();
+	Scanner sc=new Scanner(System.in);
 	    
 	//n is the size of arrayList
 	int n = sc.nextInt();
