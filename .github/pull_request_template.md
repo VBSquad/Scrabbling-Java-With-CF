@@ -1,4 +1,4 @@
-<!-- Add the issue number that is fixed by this PR (In the form Fixes #45) -->
+<!-- Add the issue number that is fixed by this PR (In the form Fixes #11) -->
 Fixes #
 
 #### Checklist:
@@ -26,3 +26,5 @@ Make sure these boxes are checked before your pull request (PR) is ready to be r
 > We're happy to help you get this ready -- don't be afraid to ask for help.
 
 Thanks!
+
+Keep Contributing. Keep Learning!
