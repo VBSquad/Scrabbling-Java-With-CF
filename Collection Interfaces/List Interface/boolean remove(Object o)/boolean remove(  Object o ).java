@@ -18,12 +18,12 @@ class ListBooleanRemove {
   
         // Add elements to the list in which one element may be 5
         for(int i = 0 ; i < n ; i++){
-            list.add( sc.next( ) );
+            list.add( sc.next( ) );  //next() can read the input only till the space. It can't read two words separated by a space. 
         }
 
         //Enter the element which need to be removed from the list
         String x = sc.nextLine();
-        x=sc.next();
+        x = sc.next(); 
   
         // Initial list 
         System.out.println( " Initial List : " + list ); 
