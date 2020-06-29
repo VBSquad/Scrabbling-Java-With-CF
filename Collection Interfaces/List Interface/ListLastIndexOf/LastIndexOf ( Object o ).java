@@ -58,6 +58,5 @@ Input:
 Output: 
 
 Initial List : [1, 2, 3, 4, 5]
-LastIndex of 2 in list : -1
-
+LastIndex of 6 in list : -1
 */
