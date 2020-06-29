@@ -31,7 +31,7 @@ class ListBooleanContainsObject {
         System.out.println( " Initial List : " + list ); 
   
         // contains( Object o ) used 
-        System.out.println( " List contains "+ x + " : " + list.contains(x) ); 
+        System.out.println( " List contains " + x + " : " + list.contains(x) ); 
         
 	sc.close();
     }
