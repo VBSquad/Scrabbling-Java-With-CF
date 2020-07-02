@@ -4,7 +4,7 @@ boolean add() : method of Queue Interface inserts the element passed in the para
 
 import java.util.*;
 
-class QueuePeek {
+class QueueAdd{
 	
     //main code
     public static void main ( String[ ] args )
