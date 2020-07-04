@@ -4,25 +4,25 @@ In other terms it retains all the elements in the current List that matches all 
 */
 import java.util.*;
 public class retainAllfunc {
-    public static void main ( String [] args){
+    public static void main ( String [] args ) {
         Scanner sc = new Scanner ( System.in );
 
         //n is the size of current list
         int n = sc.nextInt();
 
-        ArrayList < Integer > list1 = new ArrayList < Integer >();
+        ArrayList < Integer > list1 = new ArrayList < Integer > ();
 
         //adding elements to the list
-        for(int i = 0;i < n;i++){
+        for( int i = 0 ; i < n ; i++){
             list1.add( sc.nextInt() );
         }
         System.out.println( "List: " + list1 );
         //m is the size of collection c
         int m = sc.nextInt();
 
-        ArrayList < Integer > list2 = new ArrayList < Integer >();
+        ArrayList < Integer > list2 = new ArrayList < Integer > ();
         //adding elements to the collection
-        for(int i = 0;i < m;i++){
+        for( int i = 0 ; i < m ; i++){
             list2.add( sc.nextInt() );
         }
         System.out.println( "Collection c: " + list2 );
