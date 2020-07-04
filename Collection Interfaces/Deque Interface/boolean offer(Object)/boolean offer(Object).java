@@ -3,7 +3,7 @@
 */
 import java.util.*; 
 
-class ArrayDequeAdd {  
+class ArrayDequeOffer {  
     
    public static void main( String[] args ) {  
        
