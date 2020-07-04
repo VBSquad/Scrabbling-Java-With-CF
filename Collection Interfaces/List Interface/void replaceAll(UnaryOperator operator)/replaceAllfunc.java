@@ -17,7 +17,7 @@ public class replaceAllfunc {
         int n = sc.nextInt ();
 
         //adding elements to list interface 
-        for( int i = 0; i<n; i++){
+        for( int i = 0 ; i < n ; i++){
             list.add( sc.nextInt());
         }
 
