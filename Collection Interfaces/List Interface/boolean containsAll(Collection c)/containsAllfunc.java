@@ -17,8 +17,8 @@ public class containsAllfunc {
         int n = sc.nextInt ();
 
         //adding elements to the list
-        for ( int i=0;i<n;i++) {
-            list1.add( sc.nextInt() );
+        for ( int i = 0 ; i < n ; i++) {
+            list1.add ( sc.nextInt() );
         }
         
         //creating a collection i.e an arraylist whose elements is to be checked
@@ -28,14 +28,14 @@ public class containsAllfunc {
         int m = sc.nextInt ();
 
         //adding elements to the collection
-        for ( int i=0;i<m;i++) {
-            list2.add( sc.nextInt() );
+        for ( int i = 0 ; i < m ; i++) {
+            list2.add ( sc.nextInt() );
         }
 
         //performing containsAll() operation on list1
-        System.out.println( list1.containsAll( list2 ) );
+        System.out.println ( list1.containsAll( list2 ) );
 
-        sc.close();
+        sc.close ();
 
 
     }
