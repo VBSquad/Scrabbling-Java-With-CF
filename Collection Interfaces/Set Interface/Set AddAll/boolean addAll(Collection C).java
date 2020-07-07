@@ -49,14 +49,13 @@ class SetAddAll {
 }
 
 /*
-
 Sample Test Case
 
 Input :
-6
-Welcome To Geeks 4 Geeks TreeSet
+4
+Welcome to VBSquad repo
 
 Output :
-Set: [4, Geeks, To, TreeSet, Welcome]
-Set: [4, Geeks, Hello, To, TreeSet, Welcome, World]
+Set: [VBSquad, Welcome, repo, to]
+Set: [Hello, VBSquad, Welcome, World, repo, to]
 */
