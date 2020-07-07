@@ -41,7 +41,7 @@ class SetRemoveAll {
             System.out.println( "Collection Elements " + "to be removed : "
                 + set2); 
   
-            // Removing elemnts from set 
+            // Removing elements from set 
             // specified in set2 
             // using removeAll() method 
             set1.removeAll( set2 ); 
