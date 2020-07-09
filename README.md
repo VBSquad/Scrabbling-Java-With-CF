@@ -40,13 +40,13 @@ We will then be reviewing and adding your code files under the respective method
  - E remove(int index)
  - boolean remove(Object o)
  - boolean removeAll(Collection<?> c)
- - void replaceAll(UnaryOperator<E> operator)
- - void retainAll(Collection<?> c)
- - E set(int index, E element)
- - void sort(Comparator<? super E> c)
- - Spliterator<E> spliterator()
- - List<E> subList(int fromIndex, int toIndex)
- - int size()
+ - [void replaceAll(UnaryOperator<E> operator)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/void%20replaceAll(UnaryOperator%20operator))
+ - [void retainAll(Collection<?> c)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/void%20retainAll(Collection%20c))
+ - [E set(int index, E element)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/ListSetIndexElement)
+ - [void sort(Comparator<? super E> c)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/void%20sort(Comparator%20super%20E%20c))
+ - [Spliterator<E> spliterator()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/SpliteratorSequentialIteration)
+ - [List<E> subList(int fromIndex, int toIndex)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/List%20subList(int%20fromIndex%2C%20int%20toIndex))
+ - [int size()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/List%20Interface/intsize())
  </details>
 
 <details> 
