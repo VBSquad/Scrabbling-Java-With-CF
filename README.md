@@ -52,12 +52,12 @@ We will then be reviewing and adding your code files under the respective method
 <details> 
  <summary> Queue Interface  </summary > <br>
 
- - boolean add(object) 
- - boolean offer(object)
- - Object remove()
- - Object poll()
- - Object element()
- - Object peek()
+ - [boolean add(object)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Queue%20Interface/Queue%20Add) 
+ - [boolean offer(object)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Queue%20Interface/Queue%20Offer)
+ - [Object remove()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Queue%20Interface/Queue%20Remove)
+ - [Object poll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Queue%20Interface/Queue%20Poll)
+ - [Object element()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Queue%20Interface/Queue%20Element)
+ - [Object peek()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Queue%20Interface/Queue%20Peek)
 </details>
  
 <details>
