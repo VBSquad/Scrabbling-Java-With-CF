@@ -74,10 +74,10 @@ We will then be reviewing and adding your code files under the respective method
 <details> 
  <summary> Set Interface </summary> <br> 
  
- - add()
- - addAll() 
- - iterator()
- - remove() 
+ - [add()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Add)
+ - [addAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20AddAll) 
+ - [iterator()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Iterator)
+ - [remove()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Remove) 
  - removeAll() 
  - retainAll()
  - clear()
