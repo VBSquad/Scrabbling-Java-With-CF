@@ -66,9 +66,9 @@ We will then be reviewing and adding your code files under the respective method
 - [boolean add(object)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Deque%20Interface/boolean%20add(Object))
 - [boolean offer(object)](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Deque%20Interface/boolean%20offer(Object))
 - [Object remove()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Deque%20Interface/Object%20remove())
-- Object poll()
-- Object element()
-- Object peek()
+- [Object poll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Deque%20Interface/Object%20poll())
+- [Object element()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Deque%20Interface/Object%20element())
+- [Object peek()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Deque%20Interface/Object%20peek())
 </details>
  
 <details> 
