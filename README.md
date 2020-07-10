@@ -82,10 +82,10 @@ We will then be reviewing and adding your code files under the respective method
  - [retainAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Retain%20all)
  - [clear()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/clear())
  - [size()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/size())
- - toArray()
- - contains() 
- - containsAll()
- - hashCode()
+ - [toArray()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/toArray())
+ - [contains()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/contains())
+ - [containsAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/containsAll())
+ - [hashCode()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/hashCode())
  </details>
  
 <details> 
