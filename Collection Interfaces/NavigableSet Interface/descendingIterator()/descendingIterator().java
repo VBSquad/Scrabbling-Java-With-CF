@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-class NavigableSetHilgher {
+class NavigableSetDescendingIterator {
 	
     //main code
     public static void main ( String[ ] args )
