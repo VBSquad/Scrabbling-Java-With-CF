@@ -1,0 +1,1 @@
+Make sub folder for different methods in ArrayList Class with java program and add them in this folder.
