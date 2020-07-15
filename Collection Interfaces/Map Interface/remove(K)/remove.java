@@ -1,5 +1,5 @@
 /*
-remove(k) method in Map Interface in java removes the entry whose key equals to k.
+remove(k) method in Map Interface in java removes the entry whose key equals to k (where key is an integer value).
 */
 
 import java.util.*;
