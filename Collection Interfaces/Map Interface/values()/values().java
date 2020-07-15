@@ -25,7 +25,7 @@ class MapValues {
         System.out.println( "Map : " + s );
         
         // Access values of the map
-        System.out.println( " Values: " + s.values() );
+        System.out.println( "Values: " + s.values() );
         
         sc.close();
    }  
