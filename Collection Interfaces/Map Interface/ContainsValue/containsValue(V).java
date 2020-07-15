@@ -1,5 +1,5 @@
 /**
-*containsValue() : method is used to check whether a particular value is being mapped by a single or more than one key in the Map. It takes the value as a parameter and returns True if that value is mapped by any of the key in the map.
+*containsValue() : method is used to check whether a particular value is being mapped by a particular key or not. It takes the value as a parameter and returns True if that value is mapped by any of the key in the map.
 */
 import java.util.*; 
 
