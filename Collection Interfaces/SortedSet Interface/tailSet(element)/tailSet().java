@@ -1,5 +1,7 @@
 /**
-*tailSet(element) : Returns a view of the map whose keys are strictly less than the toKey.
+*tailSet(element) : method of SortedSet interface in Java is used to return a view of the portion of this set whose elements are greater than or equal to the parameter fromElement.
+                    The set returned by this method is backed by this set, so changes in the returned set are reflected in this set, and vice-versa.
+                    The set returned by this method supports all optional set operations that this set supports.
 */
 import java.util.*; 
 
