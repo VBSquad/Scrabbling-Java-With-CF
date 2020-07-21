@@ -61,6 +61,9 @@ student code in open source
 Output:
 Vector : [student, code, in, open, source]
 Vector not Clear 
+
+//after vc.clear
+
 Vector cleared []
 Vector is clear
 */
