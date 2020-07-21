@@ -1,5 +1,6 @@
 /*
- void ensureCapacity(int minCapacity) : This method increases the capacity of this vector, if necessary, to ensure that it can hold at least the number of components specified by the minimum capacity argument .
+ void ensureCapacity(int minCapacity) : This method increases the capacity of this vector, if necessary, 
+ to ensure that it can hold at least the number of components specified by the minimum capacity argument .
 
 */
 
