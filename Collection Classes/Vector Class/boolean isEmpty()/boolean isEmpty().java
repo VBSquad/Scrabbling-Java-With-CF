@@ -1,5 +1,5 @@
 /*
- boolean isEmpty(): This method tests if this vector has no components.
+ boolean isEmpty(): This method tests if vector is empty or not (if this vector has no components ).
 
 */
 
@@ -29,9 +29,9 @@ class VectorisEmpty {
         
         // check whether vector is empty or not 
         if (vc.isEmpty()) 
-            System.out.println("Vector is clear");
+            System.out.println("Vector is empty");
         else{
-            System.out.println( "Vector not Clear ");
+            System.out.println( "Vector is not empty");
         }
         
         vc.clear();
@@ -40,9 +40,9 @@ class VectorisEmpty {
         
         System.out.println( "Vector cleared " + vc);
         if (vc.isEmpty()) 
-            System.out.println("Vector is clear"); 
+            System.out.println("Vector is empty"); 
         else{
-            System.out.println( "Vector not Clear ");
+            System.out.println( "Vector is not empty ");
         }    
         
 	sc.close();
