@@ -17,9 +17,7 @@ class VectorIndexOf {
 	int n = sc.nextInt();
 	    
         // Declare an empty vector
-         Vector<String> vc = new Vector<>(); 
-         
-         Vector<String> vc1 = new Vector<>(); 
+         Vector<String> vc = new Vector<>();
          
         // Add elements to the vector 
         for(int i = 0 ; i < n ; i++ ){
