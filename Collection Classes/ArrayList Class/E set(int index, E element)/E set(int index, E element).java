@@ -22,15 +22,15 @@ class ArrayListSet {
             
             list.add( sc.nextInt() );
         }
+       
+	// print list 
+        System.out.println( "List : " + list );
         
-        // input index and element
+	// input index and element
         int index , element ;
         index = sc.nextInt();
         element = sc.nextInt();
-        
-        // print list 
-        System.out.println( "List : " + list ); 
-        
+     
         // Change the element of the array list
         list.set( index , element );
         System.out.println( "Modified ArrayList : " + list);
