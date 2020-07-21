@@ -1,6 +1,6 @@
 /*
  Enumeration elements() : method to get the Enumeration of specified Vector
-
+enumeration - the action of mentioning a number of things one by one. (iteraration)
 */
 
 import java.util.*;
