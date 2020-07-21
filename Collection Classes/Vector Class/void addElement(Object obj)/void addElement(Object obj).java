@@ -1,5 +1,6 @@
 /*
- void addElement(Object obj) : method is used to add the specified component to the end of this vector and increasing its size by one. The capacity of this vector is increased if its size becomes greater than its capacity.
+ void addElement(Object obj) : method is used to add the specified component to the end of this vector and increasing its size by one.
+ The capacity of this vector is increased if its size becomes greater than its capacity.
 */
 
 import java.util.*;
