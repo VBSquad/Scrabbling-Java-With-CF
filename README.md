@@ -74,18 +74,18 @@ We will then be reviewing and adding your code files under the respective method
 <details> 
  <summary> Set Interface </summary> <br> 
  
- - add()
- - addAll() 
- - iterator()
- - remove() 
- - removeAll() 
- - retainAll()
- - clear()
- - size()
- - toArray()
- - contains() 
- - containsAll()
- - hashCode()
+ - [add()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Add)
+ - [addAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20AddAll) 
+ - [iterator()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Iterator)
+ - [remove()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Remove) 
+ - [removeAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Remove%20All) 
+ - [retainAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/Set%20Retain%20all)
+ - [clear()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/clear())
+ - [size()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/size())
+ - [toArray()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/toArray())
+ - [contains()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/contains())
+ - [containsAll()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/containsAll())
+ - [hashCode()](https://github.com/VBSquad/Scrabbling-Java-With-CF/tree/master/Collection%20Interfaces/Set%20Interface/hashCode())
  </details>
  
 <details> 
