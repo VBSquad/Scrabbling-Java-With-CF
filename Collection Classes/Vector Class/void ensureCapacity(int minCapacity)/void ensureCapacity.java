@@ -1,7 +1,9 @@
 /*
  void ensureCapacity(int minCapacity) : This method increases the capacity of this vector, if necessary, 
  to ensure that it can hold at least the number of components specified by the minimum capacity argument .
-
+ 
+ (The ensureCapacity() method of StringBuffer class ensures the capacity to at least equal to the specified minimumCapacity. 
+ If the current capacity of StringBuffer < the argument minimumCapacity, then a new internal array is allocated with greater capacity.)
 */
 
 import java.util.*;
