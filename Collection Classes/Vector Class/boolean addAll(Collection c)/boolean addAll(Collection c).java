@@ -1,5 +1,6 @@
 /*
- boolean addAll(Collection C): This method is used to append all of the elements from the collection passed as a parameter to this function to the end of a vector keeping in mind the order of return by the collection’s iterator.
+ boolean addAll(Collection C): This method is used to append all of the elements from the collection 
+ passed as a parameter to this function to the end of a vector keeping in mind the order of return by the collection’s iterator.
 */
 
 import java.util.*;
