@@ -1,5 +1,6 @@
 /*
- int indexOf(Object elem, int index): This method returns the index of the first occurrence of the specified element in this vector, or -1 if this vector does not contain the element after the given index position.
+ int indexOf(Object elem, int index): This method returns the index of the first occurrence of 
+ the specified element in this vector, or -1 if this vector does not contain the element after the given index position.
 
 */
 
