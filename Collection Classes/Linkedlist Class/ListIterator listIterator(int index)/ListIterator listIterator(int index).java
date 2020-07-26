@@ -1,5 +1,6 @@
 /**
-  listIterator listIterator() : method is used to return a list-iterator containing the same elements as that of the LinkedList in proper and same sequence starti
+  listIterator listIterator() : method is used to return a list-iterator containing the same elements as that of the LinkedList 
+  in proper and same sequence starting from a specific position or index number which is passed as a parameter to this method.
  */
  
 import java.io.*; 
