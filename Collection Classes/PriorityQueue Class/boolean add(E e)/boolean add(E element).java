@@ -1,5 +1,5 @@
 /**
-  boolean add(E element): This method inserts the specified element into this priority queue.urned array is that of the specified array.
+  boolean add(E element): This method inserts the specified element into this priority queue. Returned array is that of the specified array.
  */
  
 import java.io.*; 
