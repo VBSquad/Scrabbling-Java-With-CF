@@ -33,7 +33,7 @@ class LinkedListClone {
         sec_list = (LinkedList) list.clone(); 
   
       // printing the new list 
-      System.out.println( "The new List is:" + sec_list ); 
+      System.out.println( "The new cloned List is:" + sec_list ); 
    } 
 } 
 
