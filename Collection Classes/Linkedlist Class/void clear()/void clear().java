@@ -31,7 +31,7 @@ class LinkedListClear {
       list.clear();
   
       // printing the new list 
-      System.out.println( "The new List is:" + list ); 
+      System.out.println( "The new List after clearing is:" + list ); 
    } 
 } 
 
