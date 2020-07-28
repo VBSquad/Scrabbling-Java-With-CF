@@ -1,6 +1,6 @@
 /*
 The subList(int fromIndex,int toIndex) method is used to return a view of the portion of the vector
-between fromIndex, inclusive, and toIndex, exclusive.
+between fromIndex i to (specifiedindex - 1 ).
 */
 
 import java.util.*;
