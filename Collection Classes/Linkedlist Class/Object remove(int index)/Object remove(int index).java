@@ -1,5 +1,5 @@
 /**
-  Object remove(int index) :  method is used to remove an element from a linked list. The element is removed from the beginning or head of the linked list.
+  Object remove(int index) :  method is used to remove an element from a linked list from a specific position or index.
  */
  
 import java.io.*; 
@@ -29,7 +29,7 @@ class LinkedListRemove {
       System.out.println( "The list is:" + list ); 
       
       // Remove the head using remove() 
-        list.remove(); 
+        list.remove( 2 ); 
   
       // Print the final list 
       System.out.println( "Final LinkedList : " + list );
@@ -44,5 +44,5 @@ Student Code In
 
 Output:
 The list is:[Student, Code, In]
-Final LinkedList : [Code, In]
+Final LinkedList : [Student, Code]
  */
