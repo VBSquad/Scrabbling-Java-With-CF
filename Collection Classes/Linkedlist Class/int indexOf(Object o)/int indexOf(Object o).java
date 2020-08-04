@@ -29,8 +29,8 @@ class LinkedListIndexOf {
       System.out.println( "The list is:" + list ); 
       
       // The first position of an element  
-      System.out.println( "The first occurrence of Geeks is at index : " 
-                                              + list.indexOf("Code") );  
+      System.out.println( "The first occurrence of Codes is at index : " 
+                                              + list.indexOf("Codes") );  
   
    } 
 } 
@@ -38,9 +38,9 @@ class LinkedListIndexOf {
 /**
 Input:
 3
-Student Code In
+Student Codes In
 
 Output:
-The list is:[Student, Code, In]
-The first occurrence of Geeks is at index : 1
+The list is:[Student, Codes, In]
+The first occurrence of Codes is at index : 1
  */
