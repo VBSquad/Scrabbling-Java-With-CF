@@ -29,7 +29,7 @@ class LinkedListGetLast {
       System.out.println( "The list is:" + list ); 
       
       // Fetching first element from the list 
-      System.out.println("The first element is: " + list.getLast()); 
+      System.out.println("The last element is: " + list.getLast()); 
   
    } 
 } 
