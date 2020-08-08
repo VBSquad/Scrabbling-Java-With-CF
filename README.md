@@ -303,16 +303,16 @@ We will then be reviewing and adding your code files under the respective method
  <details>
  <summary> LinkedHashSet Class </summary> <br>
 
-- public boolean add(E e)
- - public void clear()
- - public boolean contains(Object o)
- - public boolean isEmpty()
- - public int size()
- - public Iterator<E> iterator()
- - public boolean remove(Object o)
- - public boolean removeAll(Collection<?> c)
-- public Object clone() 
-- public Spliterator<E> spliterator()
+- boolean add(E e)
+ - void clear()
+ - boolean contains(Object o)
+ - boolean isEmpty()
+ - int size()
+ - Iterator<E> iterator()
+ - boolean remove(Object o)
+ - boolean removeAll(Collection<?> c)
+- Object clone() 
+- Spliterator<E> spliterator()
 
  </details>
 
