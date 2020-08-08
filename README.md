@@ -311,6 +311,9 @@ We will then be reviewing and adding your code files under the respective method
  - public Iterator<E> iterator()
  - public boolean remove(Object o)
  - public boolean removeAll(Collection<?> c)
+`- public Object clone() 
+- public Spliterator<E> spliterator()
+
  </details>
 
 <details>
