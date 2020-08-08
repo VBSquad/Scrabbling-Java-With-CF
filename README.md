@@ -297,11 +297,17 @@ We will then be reviewing and adding your code files under the respective method
  - Iterator iterator()
  -boolean remove(Object o)
  - int size()
+ 
  </details> 
  
  <details>
  <summary> LinkedHashSet Class </summary> <br>
- - Please Check
+
+- public boolean add(E e)
+ - public void clear()
+ - public boolean contains(Object o)
+ - public boolean isEmpty()
+ - public int size()
  </details>
 
 <details>
