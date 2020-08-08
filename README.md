@@ -308,6 +308,9 @@ We will then be reviewing and adding your code files under the respective method
  - public boolean contains(Object o)
  - public boolean isEmpty()
  - public int size()
+ - public Iterator<E> iterator()
+ - public boolean remove(Object o)
+ - public boolean removeAll(Collection<?> c)
  </details>
 
 <details>
