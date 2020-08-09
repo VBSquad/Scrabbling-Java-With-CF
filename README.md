@@ -335,7 +335,7 @@ We will then be reviewing and adding your code files under the respective method
 </details> 
 
 <details>
- <summary> TreeSet Class </summary> <br> 
+ <summary> TreeMap Class </summary> <br> 
  
  - void clear()
  - Object clone()
